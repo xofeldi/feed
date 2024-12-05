@@ -1,0 +1,60 @@
+baseURL = 'https://neodrain.net/'
+languageCode = 'en-us'
+title = 'FEED'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+
+[params]
+# Meta description
+description = "Just another place on the net."
+
+# Appearance settings
+theme = 'dark'
+colorPalette = 'eink'
+hideBackToTop = true
+hidePagination = true
+hideHeader = false
+
+# Intro on main page, content is markdown
+#homeIntroTitle = 'Hi!'
+#homeIntroContent = """
+#I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
+#I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+#"""
+
+# Collection to display on home
+homeCollectionTitle = ''
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = false
+listDateFormat = '02-01-06'
+
+# Breadcrumbs
+breadcrumbs = false
+
+showFooter = false
+
+# Main menu pages
+#[[params.menu]]
+#name = "home"
+#url = "/"
+
+#[[params.menu]]
+#name = "feed"
+#url = "/posts"
+
+#[[params.menu]]
+#name = "about"
+#url = "/about"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+

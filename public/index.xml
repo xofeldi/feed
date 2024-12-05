@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FEED</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on FEED</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jan 2024 00:52:23 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/posts/life/</link>
+      <pubDate>Wed, 24 Jan 2024 00:52:23 +1100</pubDate>
+      <guid>http://localhost:1313/posts/life/</guid>
+      <description>&lt;p&gt;Money makes the world go round but it cannot stop the Earth from spinning.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solar Wall</title>
+      <link>http://localhost:1313/posts/solar-wall/</link>
+      <pubDate>Mon, 16 Oct 2023 00:51:21 +1100</pubDate>
+      <guid>http://localhost:1313/posts/solar-wall/</guid>
+      <description>&lt;h1 class=&#34;heading&#34; id=&#34;solar-wall&#34;&gt;&#xA;  Solar wall&#xA;  &lt;a href=&#34;#solar-wall&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Our solar system has a wall&lt;/strong&gt;. The heliopause – the region of space in which solar wind isn’t hot enough to push back the wind of particles coming from distant stars – it is often considered the “boundary wall” of the Solar System and interstellar space.&lt;/p&gt;&#xA;&lt;p&gt;The heliopause is a theoretical boundary where the Sun’s wind is stopped by the interstellar medium. This is the boundary where the interstellar medium and solar wind pressures balance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dreaming</title>
+      <link>http://localhost:1313/posts/dreaming/</link>
+      <pubDate>Tue, 03 Oct 2023 00:57:15 +1100</pubDate>
+      <guid>http://localhost:1313/posts/dreaming/</guid>
+      <description>&lt;p&gt;I’ve found that the best way to remember my dreams is to focus on one specific word, or phrase, in a particularly lucid moment of the dream. Then carry that into the waking world. Somehow, this technique lets the entire dreamscape reform in the mind’s eye in incredible detail, allowing a level of recollection concise enough for repetition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Incredible Sickness</title>
+      <link>http://localhost:1313/posts/incredible-sickness/</link>
+      <pubDate>Mon, 19 Jun 2023 00:35:11 +1100</pubDate>
+      <guid>http://localhost:1313/posts/incredible-sickness/</guid>
+      <description>&lt;p&gt;It’s always during a period of incredible sickness, one in which the mind and&#xA;senses are dulled almost to the point of no return, the body conveniently forgetting how to perform basic functions. It is in those times, a disconnect occurs.&#xA;Then, for the length of the illness, the body and mind fight each other to once again find equilibrium. The intervening period is one of separated growth with the psyche lagging behind, steadily coiling itself like an ancient biological motor to be released once the body has the capacity to handle it again. Such a strange feeling. A very difficult one to convey. That initial breakthrough of inertia provides energy in abundance, however, it is always short lived. As though the organism&amp;rsquo;s natural state must be maintained and any divergence is tenuous at best. Is there a finite amount of times this process can be endured? A better question, perhaps, is how do others experience this phenomenon, are the outcomes the same?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An Issue</title>
+      <link>http://localhost:1313/posts/an-issue/</link>
+      <pubDate>Wed, 14 Jun 2023 00:43:39 +1100</pubDate>
+      <guid>http://localhost:1313/posts/an-issue/</guid>
+      <description>&lt;p&gt;I have an issue. I like to write. I like the act of writing and the meditative state that can sometimes be brought on. It&amp;rsquo;s very refreshing and satisfying to see words created by my own mind, my thoughts and ideas, written down on a page, or tablet. Typing just doesn&amp;rsquo;t have the same level of cathartic release. At least, not for me.&lt;/p&gt;&#xA;&lt;p&gt;Within the inane ramblings and deepest desires are carefully curated words that may never be read by another human for as long as I live. The drifting of the pen, back and forth, in a style that&amp;rsquo;s as unique as a fingerprint, creating an almost illegible imprint only accessible by those with the language. And even then, it can be difficult.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Single Mind</title>
+      <link>http://localhost:1313/posts/a-single-mind/</link>
+      <pubDate>Wed, 14 Jun 2023 00:41:53 +1100</pubDate>
+      <guid>http://localhost:1313/posts/a-single-mind/</guid>
+      <description>&lt;p&gt;A single mind, drinking in all experiences of the world and processing them through a unique lens to be gifted back to the collective stream.&lt;/p&gt;&#xA;&lt;p&gt;Isn’t that what the experience of consciousness is?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Burnt Out</title>
+      <link>http://localhost:1313/posts/burnt-out/</link>
+      <pubDate>Fri, 23 Apr 2021 00:48:57 +1100</pubDate>
+      <guid>http://localhost:1313/posts/burnt-out/</guid>
+      <description>&lt;p&gt;These burnt out synapses are failing to cope with the cacophony of daily life. Society rumbles by at what seems like an astonishing pace, leaving tracks once the dust settles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crisp</title>
+      <link>http://localhost:1313/posts/crisp/</link>
+      <pubDate>Sat, 13 Mar 2021 00:53:31 +1100</pubDate>
+      <guid>http://localhost:1313/posts/crisp/</guid>
+      <description>&lt;p&gt;I love the cool air that comes after a rain. Crisp. As though a great filth has been washed from the earth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;&#xA;&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
