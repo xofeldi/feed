@@ -30,7 +30,7 @@ homeCollectionTitle = ''
 homeCollection = 'posts'
 
 # Lists parameters
-paginationSize = 100
+paginationSize = 1000
 listSummaries = false
 listDateFormat = '02-01-06'
 
