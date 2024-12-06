@@ -13,7 +13,7 @@ description = "Just another place on the net."
 
 # Appearance settings
 theme = 'dark'
-colorPalette = 'eink'
+colorPalette = 'default'
 hideBackToTop = true
 hidePagination = true
 hideHeader = false
