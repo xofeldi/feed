@@ -12,7 +12,7 @@
     --header-menu-top-gap: 1rem;
 
     /* Typography */
-    --font-body: 'Source Sans 3', Georgia, Cambria, 'Noto Serif', 'Droif Serif', ui-serif, serif;
+    --font-body: 'Source Sans 3', ui-serif, serif;
     --font-mono: "Source Sans 3", ui-monospace, monospace;
 
     --h1-margin-top: 2rem;
