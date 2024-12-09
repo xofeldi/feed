@@ -12,7 +12,7 @@
     --header-menu-top-gap: 1rem;
 
     /* Typography */
-    --font-body: 'Source Code Pro', ui-serif, serif;
+    --font-body: 'Source Code Pro', ui-monospace, monospace;
     --font-mono: "Source Code Pro", ui-monospace, monospace;
 
     --h1-margin-top: 2rem;
